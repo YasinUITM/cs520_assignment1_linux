@@ -5,10 +5,10 @@
 ---
 
 ## Student Profile
-* **Name: ** AHMAD YASIN BIN HASLIZAIDI
-* **Student ID: ** 2026112691
-* **Class/Group: ** CS2303C1
-* **Campus: ** Universiti Teknologi MARA (UiTM) Cawangan Terengganu, Kampus Kuala Terengganu (Chendering)
+* Name: AHMAD YASIN BIN HASLIZAIDI
+* Student ID:  2026112691
+* Class/Group: CS2303C1
+* Campus: Universiti Teknologi MARA (UiTM) Cawangan Terengganu, Kampus Kuala Terengganu (Chendering)
 
 ---
 
