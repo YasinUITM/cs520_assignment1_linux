@@ -1,0 +1,21 @@
+==============================================
+Assalamualaikum! Saya Ahmad Yasin bin Haslizaidi
+==============================================
+b. Tarikh dan Masa Semasa: Mon Jun 29 15:59:20 +08 2026
+
+Disk Usage (Storage):
+/dev/sdd       1007G  1.8G  954G   1% /
+
+Memory Usage (RAM):
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       554Mi       6.6Gi       3.9Mi       492Mi       6.9Gi
+Swap:          2.0Gi          0B       2.0Gi
+
+Top 5 Processes: 
+    PID CMD                         %CPU
+   1036 /usr/lib/polkit-1/polkitd -  0.1
+   1031 /usr/libexec/packagekitd     0.0
+      1 /sbin/init                   0.0
+    532 /init                        0.0
+     40 /usr/lib/systemd/systemd-jo  0.0
+==============================================
